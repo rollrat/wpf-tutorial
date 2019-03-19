@@ -16,7 +16,7 @@
 
 [클래스와 인터페이스 (작성중)](C%23/class-interface.md)
 
-[Collection 사용법](C%23/collections.md)
+[Collection 사용법 (작성중)](C%23/collections.md)
 
 [Task와 Thread 그리고 비동기](C%23/task-thread-async.md)
 
@@ -35,6 +35,8 @@
 [Type 완벽히 다루기! (작성중)](C%23/type.md)
 
 [유용한 라이브러리들](C%23/libs.md)
+
+[플러그인 시스템 만들기](C%23/plugin.md)
 
 골드급 (작성 안함)
 
@@ -56,7 +58,7 @@
 
 [Grid로 계산기를 만들어보자! (작성중)](WPF/calculator.md)
 
-[Panel은 뭐지? 뭐이리 종류가 많아!](WPF/panel.md)
+[Panel은 뭐지?](WPF/panel.md)
 
 [기타 기본 컨트롤들](WPF/controls.md)
 
