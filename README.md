@@ -18,7 +18,7 @@
 
 [Collection 사용법 (작성중)](C%23/collections.md)
 
-[Task와 Thread 그리고 비동기](C%23/task-thread-async.md)
+[Task와 Thread 그리고 비동기 (작성중)](C%23/task-thread-async.md)
 
 [파일시스템과 네트워크 통신](C%23/fs-network.md)
 
